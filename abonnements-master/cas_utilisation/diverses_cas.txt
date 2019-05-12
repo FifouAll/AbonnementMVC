@@ -1,0 +1,24 @@
+Cas d’utilisation
+
+Nom du cas : Gérer ses abonnements(divers)
+Acteur : utilisateur
+Scénario normal :
+
+1. L’utilisateur demande la consultation de ses abonnements
+2.  Le système retourne la liste des types d’abonnements.
+3. L’utilisateur sélectionner un type
+4. Le système retourne la liste de ce type
+5. L’utilisateur sélectionne le détail de son abonnement.
+6. Le système renvoie donc le résultat de l’abonnement sélectionné.
+
+Scénario étendu :
+
+7.L’utilisateur veut ajouter un abonnement .
+8.Le système ajoute  un nouvel abonnement dans le type précis.
+9. L’utilisateur veut clôturer un  abonnement précis.
+10.Le système cloture l'abonnement.
+
+Scénario particulier :
+
+8.1. L’abonnement existe déjà : l’utilisateur est informé par le système.
+8.2. Echec de l'abonnement si l'utilisateur rempli mal le formulaire.

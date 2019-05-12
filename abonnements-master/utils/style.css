@@ -1,0 +1,19 @@
+/* 
+    Created on : 18 oct. 2018, 09:37:09
+    Author     : jchoay
+*/
+
+#ajouterAbonnement{
+    width : 85%;
+    margin-top: 15%;
+    margin : auto;
+}
+#ConnectionClient, #InscriptionClient{
+    width : 50%;
+    padding-top: 12%;
+    margin : auto;
+}
+#talbe_ex{
+    width : 30%;
+    margin: auto;
+}
